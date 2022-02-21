@@ -88,7 +88,7 @@ for label in range(num_classes):
 ---
 
 
-Demonstrating training of Support Vector Machine Classifer and computing the accuracy of trained model.
+Demonstrating training of Support Vector Machine Classifer, train the model and computing the accuracy of test set.
 """
 
 from sklearn.svm import LinearSVC
