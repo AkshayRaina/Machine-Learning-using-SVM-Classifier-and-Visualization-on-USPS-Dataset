@@ -12,4 +12,4 @@ The dataset is given in [hdf5 file format](https://support.hdfgroup.org/HDF5/), 
 
 Reference:
 
-[Kaggle Example] (https://www.kaggle.com/code/bistaumanga/usps-getting-started)
+[Kaggle Example](https://www.kaggle.com/code/bistaumanga/usps-getting-started)
